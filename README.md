@@ -2,7 +2,7 @@
 Modeling of published clinical Rifampicin-Theophylline-DDI studies for model evaluation
 
 ### Repository files
-Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Rifampicin-Theophylline-DDI, including the respective observed data digitized from literature reports. The applied rifampicin model is an extended version of the [rifampicin model](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model) published previously. For further details and documentation please refer to [[1](#reference)].
+Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Rifampicin-Theophylline-DDI, including the respective observed data digitized from literature reports. The applied [rifampicin model](https://github.com/Open-Systems-Pharmacology/Rifampicin-Model)  is an extended version of the rifampicin model published previously. For further details and documentation please refer to [[1](#reference)].
 
 ### License
 The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE). 
